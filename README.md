@@ -1,0 +1,3 @@
+git add .
+clear
+hi
